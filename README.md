@@ -1,2 +1,2 @@
 # maho
-Maho is a fast, lightweight, autocomplete library.
+Magical autocomplete for the web.
